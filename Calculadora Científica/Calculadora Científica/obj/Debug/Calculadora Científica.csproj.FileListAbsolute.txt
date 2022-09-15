@@ -1,0 +1,39 @@
+c:\users\leona\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csprojResolveAssemblyReference.cache
+c:\users\leona\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Form1.resources
+c:\users\leona\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Properties.Resources.resources
+c:\users\leona\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.GenerateResource.cache
+c:\users\leona\source\repos\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\WindowsFormsApplication1.frmCalc.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Properties.Resources.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.GenerateResource.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe.config
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.pdb
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.pdb
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe.config
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.exe
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.pdb
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.pdb
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\WindowsFormsApplication1.frmCalc.resources
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Properties.Resources.resources
+C:\Users\ETESP\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.GenerateResource.Cache
+E:\LPOO\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe.config
+E:\LPOO\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.exe
+E:\LPOO\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.pdb
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\Calculadora Científica.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\WindowsFormsApplication1.FrmCalc.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora_Científica.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.GenerateResource.Cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\MathNet.Numerics.dll
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\bin\Debug\MathNet.Numerics.xml
+C:\Users\leona\Documents\Visual Studio 2017\Projects\Calculadora Científica\Calculadora Científica\obj\Debug\Calculadora Científica.csproj.CopyComplete
